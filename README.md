@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![MasterHead](blob:https://chatgpt.com/0021b617-9d24-4d01-af5a-2c784afd764f)
+[img align="right" alt="Coding" width="400" src=" "]
 <!--
 **javirome90/javirome90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
